@@ -18,6 +18,7 @@ The 'AI Job Postings and Adoption Insights Dashboard' page gives a high-level su
 
 **Slicers (Filters)-** 
 These filters allow users to customize the entire dashboard view based on their area of interest:
+
 **1. Country –** View job trends only for selected countries.
 
 **2. Industry –** Focus on specific sectors such as technology, finance, healthcare, etc.
@@ -47,7 +48,7 @@ These KPIs give an instant snapshot of the overall AI job market from Jan 2024 �
 # Visuals
 **1️. Job Postings by Type of Workplace**
 
-A **bar chart** comparing: On-site vs Hybrid VS Remote Jobs
+A **bar chart** comparing: On-site vs Hybrid vs Remote Jobs
 
 This helps users understand which work arrangement is most common in AI roles globally.
 
@@ -74,13 +75,13 @@ The main dashboard includes two drill-through options that allow users to jump f
 
 When a user right-clicks on a specific country on the map and selects Drill through, they are taken to the **'_Job_Postings_Data_Table'** page. This shows all job postings related to that selected country in a detailed tabular format.
 
-The **_Skill_Detail** page provides a focused view of a single skill selected from the main dashboard. It breaks down how often that skill appears in job postings, which industries are hiring for it, and what kinds of job titles and salary ranges are associated with it. The page also shows how demand for the skill changes over time. Overall, it gives a clear picture of the skill’s importance in the market and helps users understand where and how it is being used across different roles and industries.
+The **'_Skill_Detail'** page provides a focused view of a single skill selected from the main dashboard. It breaks down how often that skill appears in job postings, which industries are hiring for it, and what kinds of job titles and salary ranges are associated with it. The page also shows how demand for the skill changes over time. Overall, it gives a clear picture of the skill’s importance in the market and helps users understand where and how it is being used across different roles and industries.
 
 **Drill-through from the Top Skills Bar Chart:**
 
 When a user right-clicks on a specific skill in the Top Skills bar chart and chooses Drill through, they are taken to the **'_Skill_Detail page'** page. This provides a focused view of how that skill appears across roles, industries, and time.
 
-The **_Job_Postings_Data_Table** page offers a complete, detailed list of job postings filtered by the country the user drills through from on the map. It displays all relevant information—such as job titles, companies, required skills, workplace types, and posting dates—in a clean, searchable table. This page allows users to explore the underlying data behind the visuals and see exactly what kinds of roles are available in a specific country, giving deeper context to the trends shown on the main dashboard.
+The **'_Job_Postings_Data_Table'** page offers a complete, detailed list of job postings filtered by the country the user drills through from on the map. It displays all relevant information—such as job titles, companies, required skills, workplace types, and posting dates—in a clean, searchable table. This page allows users to explore the underlying data behind the visuals and see exactly what kinds of roles are available in a specific country, giving deeper context to the trends shown on the main dashboard.
 
 These drill-throughs make the dashboard more interactive and allow users to explore deeper insights without cluttering the main page.
 
