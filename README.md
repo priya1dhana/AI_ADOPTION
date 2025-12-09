@@ -33,6 +33,7 @@ All these slicers make the dashboard completely interactive, allowing users to s
 
 **KPI Cards-** 
 The top bar highlights important at-a-glance metrics such as:
+
 **1. Total Job Postings (15,000) –** Total number of AI-related job listings.
 
 **2. Unique Job Titles (20) –** Count of different AI job roles in the dataset.
@@ -79,7 +80,7 @@ The **'_Skill_Detail'** page provides a focused view of a single skill selected 
 
 **Drill-through from the Top Skills Bar Chart:**
 
-When a user right-clicks on a specific skill in the Top Skills bar chart and chooses Drill through, they are taken to the **'_Skill_Detail page'** page. This provides a focused view of how that skill appears across roles, industries, and time.
+When a user right-clicks on a specific skill in the Top Skills bar chart and chooses Drill through, they are taken to the **'_Skill_Detail'** page. This provides a focused view of how that skill appears across roles, industries, and time.
 
 The **'_Job_Postings_Data_Table'** page offers a complete, detailed list of job postings filtered by the country the user drills through from on the map. It displays all relevant information—such as job titles, companies, required skills, workplace types, and posting dates—in a clean, searchable table. This page allows users to explore the underlying data behind the visuals and see exactly what kinds of roles are available in a specific country, giving deeper context to the trends shown on the main dashboard.
 
